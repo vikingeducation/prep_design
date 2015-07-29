@@ -6,6 +6,7 @@ This README file houses the student-sourced solutions to the final project of th
 *Instructions: Add your name and a link to your solution on Github to the list below.*
 
 * [Example User's Solution](http://github.com/octocat) (not real)
+* [Andrew Baik's Solution](https://github.com/strychemi/facebook_teardown)
 * *Put your solution above this line*
 
 
