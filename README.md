@@ -4,7 +4,8 @@ This README file houses the student-sourced solutions to the final project of th
 ## Solutions
 
 *Instructions: Add your name and a link to your solution on Github to the list below.*
-Brendan https://github.com/bchaughey/FB_Tear_Down/tree/master 
+
+* Brendan https://github.com/bchaughey/FB_Tear_Down/tree/master 
 * [Example User's Solution](http://github.com/octocat) (not real)
 * *Put your solution above this line*
 
