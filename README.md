@@ -5,6 +5,7 @@ This README file houses the student-sourced solutions to the final project of th
 
 *Instructions: Add your name and a link to your solution on Github to the list below.*
 
+* Brendan https://github.com/bchaughey/FB_Tear_Down/tree/master 
 * [Example User's Solution](http://github.com/octocat) (not real)
 * [Andrew Baik's Solution](https://github.com/strychemi/facebook_teardown)
 * [Adan Camacho's Solution](https://github.com/Adancode/Facebook_Design_Project)
