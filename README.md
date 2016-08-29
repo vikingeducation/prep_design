@@ -6,6 +6,7 @@ This README file houses the student-sourced solutions to the final project of th
 *Instructions: Add your name and a link to your solution on Github to the list below.*
 
 * [Example User's Solution](http://github.com/octocat) (not real)
+* [Brendan's solution](https://github.com/bchaughey/FB_Tear_Down/tree/master)
 * [Christian Carey's Solution](https://medium.com/@christiancarey1/getting-lost-in-pageland-a-facebook-design-teardown-36425156317a#.g4f8951b8)
 * [Andrew Baik's Solution](https://github.com/strychemi/facebook_teardown)
 * [Adan Camacho's Solution](https://github.com/Adancode/Facebook_Design_Project)
